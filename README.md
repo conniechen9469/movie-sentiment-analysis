@@ -12,6 +12,7 @@
 - sampleSubmission.csv：提交的格式
 
 我后面处理的语料：
+
 preprocess.py产生的：
 - train_char_num_punc.tsv：有英文，数字和正常标点符号的训练语料
 - train_char_num.tsv：只有英文和数字的训练语料
