@@ -43,6 +43,7 @@ vectors_word2vec.py预训练的词向量：
 ### vectors_word2vec.py
 直接用的gensim，word2vec(cbow）模型，向量大小20（字典大小|D|大概是17k左右，词向量取log2|D|，这个是一种经验值，不一定是对的），窗口5，用的softmax huffman，负采样5.
 
-
+### gru-in-keras.py
+比赛里kernel大佬用的gru集成模型
 
 
